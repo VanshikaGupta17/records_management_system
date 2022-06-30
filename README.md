@@ -1,2 +1,9 @@
 # records_management_system
-The record management system stores details related to the students, teachers and staff of an institute while segregating them into different categories for ease of access. The complete project is developed using the C programming language and different control statements have been used for its development.
+
+Salient features of the project:
+-> Easy to add, modify, remove and view records
+-> Categories divided (Student, Teacher,Staff) for easy access
+-> Validations
+-> Login system
+
+Password required at the beginning : pass
