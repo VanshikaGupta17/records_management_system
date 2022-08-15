@@ -240,7 +240,7 @@ printf("\tis brought to you by");
 
 gotoxy(16,7);
 
-printf("\tCODE-PROJECTS");
+printf("\tVANSHIKA");
 
 gotoxy(16,8);
 
@@ -1044,7 +1044,7 @@ int i=0,j;
 
 
 
-	printf("\t\t\t\tWELCOME\n\t\t\t\t  To \n\t\t   \xdb\xdb\xdb\xdb\xdb\xdb College Management System \xdb\xdb\xdb\xdb\xdb\xdb\n");
+	printf("\t\t\t\tWELCOME\n\t\t\t\t  To \n\t\t   \xdb\xdb\xdb\xdb\xdb\xdb Records Management System \xdb\xdb\xdb\xdb\xdb\xdb\n");
 
 	printf("\t \n\n\n Enter Password:");
 
